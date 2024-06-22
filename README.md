@@ -1,1 +1,1 @@
-A more complex Rust example that uses the concept of a pizza ordering system. Program defines various data structures, implement functionality to create pizza orders, calculate total prices, and demonstrate error handling.
+A more complex Rust example that uses the concept of a pizza ordering system. Program defines various data structures, implement functionality to create pizza orders, calculates total prices, and demonstrates error handling.
